@@ -33,7 +33,7 @@ P0→P1→P2→P3→P4→P5→P6→P7
 - Clone repository into your system
 
 ```
-git clone https://github.com/Ravenen/microcontroller_lab_1.git
+git clone https://github.com/Ravenen/microcontroller_lab_2.git
 ```
 
 - Activate Python virtual environment
